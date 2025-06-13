@@ -71,7 +71,7 @@ export default function EditProfileScreen() {
               transition={300}
             />
             <View style={styles.changeAvatarButton}>
-              <Camera size={20} color="Gray" />
+              <Camera size={20} color="Black" />
             </View>
           </View>
         </TouchableOpacity>

@@ -28,6 +28,7 @@ export default function CommentInput({ onSubmit }: CommentInputProps) {
         style={styles.avatar}
         contentFit="cover"
         transition={300}
+        
       />
       <TextInput
         style={styles.input}

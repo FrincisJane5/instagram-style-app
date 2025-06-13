@@ -89,7 +89,7 @@ export default function CreatePostScreen() {
                   style={styles.removeButton}
                   onPress={() => removeImage(index)}
                 >
-                  <X size={20} color="white" />
+                  <X size={20} color="Black" />
                 </TouchableOpacity>
               </View>
             ))}

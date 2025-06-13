@@ -80,7 +80,7 @@ export default function Post({ post, onLikeToggle, onSaveToggle }: PostProps) {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: 'pink',
+    backgroundColor: 'skyblue',
     marginBottom: 8,
   },
 });
