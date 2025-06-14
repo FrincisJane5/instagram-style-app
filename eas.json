@@ -12,6 +12,11 @@
       "distribution": "store",
       "channel": "detox",
       "node": "18.20.8"
+    },
+    "apk": {
+      "android": {
+        "buildType": "apk"
+      }
     }
   }
 }
