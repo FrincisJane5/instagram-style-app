@@ -78,7 +78,7 @@ export const posts: Post[] = [
       "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=1000",
       "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?q=80&w=1000",
     ],
-    caption: "Homemade pasta with fresh ingredients from the farmers market 🍝  #homemade  #cooking #foodie",
+    caption: "Homemade pasta with fresh ingredients from the farmers market 🍝oiiai  #homemade  #cooking #foodie",
     likes: 876,
     liked: false,
     comments: [
@@ -87,7 +87,7 @@ export const posts: Post[] = [
         userId: "user5",
         username: "Krhisha Marie",
         avatar: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80",
-        text: "This looks delicious! Recipe please?",
+        text: "This looks delicious! Recipe please?heheh oiiai",
         timestamp: "12h ago"
       }
     ],
@@ -106,7 +106,7 @@ export const posts: Post[] = [
     images: [
       "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1000",
     ],
-    caption: "Morning workout complete! 💪 Starting the day with energy and focus #fitness #workout #motivation #morningroutine",
+    caption: "Morning workout complete! 💪 Starting the day with energy and focus wweeww oiiai#fitness #workout #motivation #morningroutine",
     likes: 345,
     liked: false,
     comments: [],
@@ -125,7 +125,7 @@ export const posts: Post[] = [
       "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?q=80&w=1000",
       "https://images.unsplash.com/photo-1470058869958-2a77ade41c02?q=80&w=1000",
     ],
-    caption:"Every leaf adds a little more calm to my chaos. 🌱 #HouseplantHaven",
+    caption:"Every leaf adds a little more calm to my chaos. 🌱shheesshh oiiai #HouseplantHaven",
     likes: 621,
     liked: true,
     comments: [],
